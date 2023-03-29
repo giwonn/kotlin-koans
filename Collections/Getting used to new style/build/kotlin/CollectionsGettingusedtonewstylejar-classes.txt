@@ -1,0 +1,1 @@
+/Users/mzs01-allendev/Github/Kotlin Koans/Collections/Getting used to new style/build/classes/java/main/TaskKt.class
