@@ -1,0 +1,1 @@
+/Users/mzs01-allendev/Github/Kotlin Koans/Generics/Generic functions/build/classes/java/main/TaskKt$partitionLettersAndOtherSymbols$1.class:/Users/mzs01-allendev/Github/Kotlin Koans/Generics/Generic functions/build/classes/java/main/TaskKt$partitionWordsAndLines$1.class:/Users/mzs01-allendev/Github/Kotlin Koans/Generics/Generic functions/build/classes/java/main/TaskKt.class

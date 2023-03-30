@@ -1,0 +1,1 @@
+/Users/mzs01-allendev/Github/Kotlin Koans/Properties/Lazy property/build/classes/java/main/LazyProperty.class
